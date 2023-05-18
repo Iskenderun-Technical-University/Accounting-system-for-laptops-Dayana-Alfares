@@ -1,0 +1,11 @@
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\ist.exe.config
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\ist.exe
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\ist.pdb
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.Form1.resources
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.Properties.Resources.resources
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.exe
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.pdb

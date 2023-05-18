@@ -1,0 +1,15 @@
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\ist.exe.config
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\ist.exe
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\ist.pdb
+C:\Users\abdal\source\repos\Project1\Project1\ist\bin\Debug\Guna.UI2.dll
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ComputerSYstem.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ComputerSYstem.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.HomeStor.resources
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.LoginScreen.resources
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.Properties.Resources.resources
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ComputerSYstem.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ComputerSYstem.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ComputerSYstem.csproj.CopyComplete
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.exe
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.pdb
+C:\Users\abdal\source\repos\Project1\Project1\ist\obj\Debug\ist.addProduct.resources
